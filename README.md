@@ -1,2 +1,4 @@
 # Responsive_Corousel
-A responsive corousel
+A simple responsive corousel
+# codepen link 
+https://codepen.io/Om1621/pen/PoNvGda
